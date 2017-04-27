@@ -1,2 +1,2 @@
-Webservice Cielo 3.0
+Pagador API
 ====================
