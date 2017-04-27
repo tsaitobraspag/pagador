@@ -1,5 +1,5 @@
 ---
-title: Integração API 3.0
+title: Integração Pagador API
 
 language_tabs:
   - json: JSON
